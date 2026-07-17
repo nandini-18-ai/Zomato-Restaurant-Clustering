@@ -190,7 +190,7 @@ Run the notebook using:
 
 # 👨‍💻 Author
 
-**Gaurav Ravindra Dhage**
+**Nandini Dhole**
 
 Bachelor of Engineering (Artificial Intelligence & Data Science)
 
