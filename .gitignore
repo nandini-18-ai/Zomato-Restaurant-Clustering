@@ -1,0 +1,26 @@
+# Ignore datasets
+*.csv
+
+# Python cache
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python compiled files
+*.pyc
+
+# Environment files
+.env
+
+# Saved ML models
+*.pkl
+
+# Zip files
+*.zip
+
+# macOS files
+.DS_Store
+
+# VS Code settings
+.vscode/
